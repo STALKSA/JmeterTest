@@ -20,5 +20,3 @@
 
 - Скрин: ![Стандартный отчет JMeter](https://www.evernote.com/shard/s352/sh/eb1fddd6-213d-4e94-9c3b-45f3decdeeb0/mgRf6IhezmvzpmWo6JQEM1z6qWw2_FOGL9QF6m7ti_qiS4VV6H2ZpfP0XQ/res/eb010259-85c8-4a36-b554-ce6303fa58e7)
 **Отчет**: стандартный отчет JMeter о проведенном тестировании.
-
-
